@@ -1,4 +1,4 @@
-*******************************************************
+/*******************************************************
  * @file Basic.ino
  *
  * @brief Basic example demonstrating usage of the 7Semi ADS1xx5 library.
